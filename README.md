@@ -1,2 +1,2 @@
 # test
-This is a test for getting comfortable with PRs
+This is a test for getting comfortable with PRs.
